@@ -8,7 +8,7 @@
 
 **Fecha: 15/10/21**
 
-# Primer proyecto de MongoDB y Visual Studio code
+# Primer proyecto de MongoDB y Visual Studio Code
 
 * En este apartado daré una breve introducción de lo que se hara en este proyecto,la idea de este proyecto es hacer un  repositorio con git hub ,en cual introduciremos la carpeta src en la que añadiremos la extensión js,en doc un documento pdf 
 con su explicación y un archivo Readme.md,donde se dará una introducción.El proyecto contendrá ejemplos sobre colecciones diseñadas por mí y 
